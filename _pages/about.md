@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Content
+======
 Hi, my name is Wang Yukun, an undergraduate of Tsinghua University. In the coming years, I will be pursuing my PhD at Zhejiang University, advised by Dr. Zhang Zhiyu.
 
 My research interests include: mathematics, machine learning, data science.
